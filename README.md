@@ -1,5 +1,11 @@
-## Hi there 👋
+# 🚀 HOLA
 
+Este es mi primer repositorio en GitHub.
+
+## 👋 Bienvenido a mi repositorio
+Estoy aprendiendo programación en GitHub 💻
+
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150">
 <!--
 **Josselin-Miranda/Josselin-Miranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
