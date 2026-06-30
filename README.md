@@ -1,19 +1,23 @@
-#  HOLA        
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwURgM5XSamuXAIkZstXRS8j-_XRhvpYGv7w&s.jpg" with="150">
-</p>
-Este es mi primer repositorio en GitHub.
+# Sobre-Mi
 
- 👋 Bienvenido a mi repositorio
-Estoy aprendiendo programación en GitHub 💻 ## Mis objetivos son
-Mejorar mis habilidades como programador.
-Desarrollar proyectos útiles y creativos.
-Aprender nuevas tecnologías constantemente.
-Construir un portafolio que refleje mi crecimiento.
+<img align="right" src="https://png.pngtree.com/thumb_back/fh260/background/20240610/pngtree-computer-of-the-software-developer-on-the-desk-in-the-room-image_15746066.jpg" width="250">
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150">        
+soy estudiante de Desarrollo de Software y me  gusta el Mundo de la tecnologia, la programacion y el aprendizaje
+.Actualmente me encuentro fortaleciendo mis conocimientos de Desarrollo web, Git y GitHub, con el objetivo
+ de Mejorar mis habilidades y adquirir experiencia en la creacion de proyectos informaticos
 
-<img src="https://wallpapers.com/images/featured/imagenes-de-conejito-q7svkrzpyasvayl9.jpg" width="150">
+ me considero una persona responsable,creativa y con muchas ganas de  aprender nuevas tecnologias .Disfruto resolver
+ problemas,trabajar en equipo y enfrentar nuevos retos que me permitan crecer tanto personal como profesionalmente.
 
+## Estoy aprendiendo  estas herramientas Tecnologicas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-28A745?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-800080?style=for-the-badge&logo=inkscape&logoColor=white)
 
 
 <!--
