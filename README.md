@@ -4,7 +4,11 @@
 Este es mi primer repositorio en GitHub.
 
  👋 Bienvenido a mi repositorio
-Estoy aprendiendo programación en GitHub 💻
+Estoy aprendiendo programación en GitHub 💻 ## Mis objetivos son
+Mejorar mis habilidades como programador.
+Desarrollar proyectos útiles y creativos.
+Aprender nuevas tecnologías constantemente.
+Construir un portafolio que refleje mi crecimiento.
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150">        
 
